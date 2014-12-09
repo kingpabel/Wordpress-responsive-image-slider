@@ -1,0 +1,2 @@
+Wordpress-responsive-image-slider
+=================================
